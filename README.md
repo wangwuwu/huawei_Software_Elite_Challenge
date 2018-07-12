@@ -1,0 +1,2 @@
+# huawei_Software_Elite_Challenge
+2018年华为软件精英挑战赛，包括特征工程，使用滑窗法构建数据集，采用随机回归森林进行预测
